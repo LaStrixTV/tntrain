@@ -1,0 +1,8 @@
+name: TNTRain
+version: ${project.version}
+main: de.lastrix.tntrain.Main
+api-version: 1.16
+authors: [ LaStrix ]
+commands:
+  tntrain:
+    description: Enable/Disable the TNTRain Plugin
